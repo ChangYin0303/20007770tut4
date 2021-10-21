@@ -16,5 +16,6 @@ class CalcTest {
 
     @Test
     void subtract() {
+        int c = 5;
     }
 }
